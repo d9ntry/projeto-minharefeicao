@@ -8,7 +8,7 @@
 ---
 
 ## 1. Distribuição de Responsabilidades
-- **Lucas Oliveira (RA: 10736078):** Análise de requisitos, prototipação UI/UX (Desktop e Mobile), identificação das classes candidatas de domínio, documentação do storyboard e gravação do vídeo explicativo.
+- **Lucas Oliveira (RA: 10736078):** Análise de requisitos, protótipo Desktop e Mobile, identificação das classes candidatas de domínio, documentação do storyboard e gravação do vídeo explicativo.
 
 ---
 
@@ -18,9 +18,7 @@
 ---
 
 ## 3. Storyboard e Sequência de Navegação
-*(As telas da visão Desktop e Mobile do fluxo principal)*
 
-[Você pode arrastar e soltar as imagens do seu PDF aqui na Wiki ou anexar o arquivo do Storyboard]
 
 ---
 
