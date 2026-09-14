@@ -13,7 +13,7 @@
 ---
 
 ## 2. Vídeo Explicativo
-[[Insira aqui o link do seu vídeo do YouTube ou Google Drive](https://youtu.be/3HP1KXApqDE?si=A5oT0ATA9JAufvuf)]
+[[Link para o vídeo explicativo](https://youtu.be/3HP1KXApqDE?si=A5oT0ATA9JAufvuf)]
 
 ---
 
