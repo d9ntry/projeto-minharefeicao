@@ -13,7 +13,7 @@
 ---
 
 ## 2. Vídeo Explicativo
-[[Link para o vídeo explicativo](https://youtu.be/3HP1KXApqDE?si=A5oT0ATA9JAufvuf)]
+[Link para o vídeo explicativo](https://youtu.be/3HP1KXApqDE?si=A5oT0ATA9JAufvuf)
 
 ---
 
@@ -28,7 +28,7 @@
 <img width="1591" height="830" alt="{61D1359A-ACF6-451E-B305-38B9D71F01DD}" src="https://github.com/user-attachments/assets/cc51cf89-267d-41c2-9b51-9a8436a57ea1" />
 <img width="1594" height="828" alt="{0DC85F82-3461-4FC0-BC47-B73361AFABDD}" src="https://github.com/user-attachments/assets/0614be12-8677-41d1-9b8b-31cc36f6507a" />
 
-
+[Download do PDF](https://github.com/user-attachments/files/32175522/storyboard_minha_refeicao_final.pdf)
 
 ---
 
